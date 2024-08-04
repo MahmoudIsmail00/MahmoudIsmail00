@@ -1,5 +1,5 @@
 
-![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/mahmoud-ismail-99783120b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> 
+![githubbadge](https://img.shields.io/github/followers/mahmoud?style=social) <a href="https://www.linkedin.com/in/mahmoud-ismail-99783120b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ismail%20-blue?style=flat&logo=linkedin"></a> 
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
