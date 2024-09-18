@@ -30,7 +30,7 @@
 ### ASP.NET Web API for Online Store Management
 - **Tech Stack**: C#, .NET Core, Entity Framework, JWT, ASP.NET Identity.
 - **Description**: A RESTful API for managing product, customer, and order data, integrating secure authentication and authorization.
-- [GitHub Repository](https://github.com/MahmoudIsmail00)
+- [GitHub Repository](https://github.com/MahmoudIsmail00/Awfarlak-API)
 
 ## 🌱 Currently Learning
 - Advanced design patterns in C#.
