@@ -1,23 +1,48 @@
 
-![githubbadge](https://img.shields.io/github/followers/mahmoud?style=social) <a href="https://www.linkedin.com/in/mahmoud-ismail-99783120b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ismail%20-blue?style=flat&logo=linkedin"></a> 
+# Mahmoud Ismail - Full Stack .NET & Angular Developer
 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
+👋 Hi there! I'm **Mahmoud Ismail**, a passionate junior Full Stack Developer specializing in **.NET** and **Angular**. I love working with both front-end and back-end technologies to create powerful, scalable, and user-friendly web applications.
 
-### :star: Some fun facts!
- - I love Playing online Games 
+## 🚀 Skills & Technologies
 
-##  :calendar: I'm currently  ...
+### Backend Development
+- **C#** - Proficient in object-oriented programming and enterprise-level applications.
+- **.NET Core** - Experience with MVC & Web API for building robust server-side logic.
+- **Entity Framework Core** - For ORM and database interaction.
+- **JWT Authentication & Authorization** - Implementing secure token-based authentication systems.
+- **ASP.NET Identity** - User authentication, authorization, and role-based access control.
+- **SQLServer** - Implementing and maintaining databases SQL queries
 
- ### :books: Learning:
- - ![C#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Frontend development, Backend development
- - Something new everyday! 
+### Frontend Development
+- **HTML5, CSS3** - Semantic markup and modern, responsive web design.
+- **JavaScript & TypeScript** - Strong skills in both languages for creating dynamic, feature-rich applications.
+- **Angular Framework** - Building scalable, maintainable, and efficient single-page applications (SPAs).
+- **RxJS** - Reactive programming to handle asynchronous operations.
+- **Tailwind CSS & Bootstrap** - For fast, responsive UI development.
 
-### :mortar_board: Graduating:
-Faculty of Engineering , Computer Engineering and systems Department
+## 📂 Projects
 
-## :speech_balloon: And I also...
-About to graduate from ITI ismailia branch 🎉
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudIsmail00&show_icons=true&locale=en&layout=compact" alt="MahmoudIsmail00" /></p>
-Let's talk! 
+### Awfarlak - E-commerce Platform
+- **Tech Stack**: Angular, .NET Web API, TypeScript, RxJS, Tailwind CSS.
+- **Description**: A full-stack e-commerce platform where users can browse, filter, and purchase products. Implemented JWT authentication and role-based access control with ASP.NET Identity.
+- [GitHub Repository](https://github.com/MahmoudIsmail00/Awfarlak-Angular)
 
-⭐️ From [Mahmoud](https://github.com/MahmoudIsmail00/MahmoudIsmail00/)
+### ASP.NET Web API for Online Store Management
+- **Tech Stack**: C#, .NET Core, Entity Framework, JWT, ASP.NET Identity.
+- **Description**: A RESTful API for managing product, customer, and order data, integrating secure authentication and authorization.
+- [GitHub Repository](https://github.com/MahmoudIsmail00)
+
+## 🌱 Currently Learning
+- Advanced design patterns in C#.
+- Scalable cloud architectures (Azure, AWS).
+
+## 💬 Let's Connect
+Feel free to connect with me on LinkedIn or reach out through GitHub to discuss new opportunities, collaborations, or if you just want to chat about technology!
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-m-ismail98/)
+- [GitHub](https://github.com/MahmoudIsmail00)
+
+## 📧 Contact Me
+You can reach me via email at: **mahmoudismail6633@gmail.com**
+
+Thanks for stopping by!
